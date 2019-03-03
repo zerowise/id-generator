@@ -1,1 +1,1 @@
-# IdGenerator
+# id-generator
